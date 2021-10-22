@@ -22,3 +22,6 @@ paso a paso para subir repositorio a github
 5) configurar email
 6) pasar los archivos al stagging Area=>(todos los aerchivos) git add . (algun archivo git add NombreDelArchivo)
 7) git commit -m"pequeño comentario"
+
+luego de guardar todos los cambios hay que subirlos con git status para vefr los cambiosluego git add .
+y el git commit -m".."
