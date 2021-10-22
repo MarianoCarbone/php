@@ -14,7 +14,7 @@ index.html
 index.html
 
 
-pasos
+pasos para subir repositorio a github
 1) verificar carpeta de proyecto
 2) entro a la carpeta del proyecto
 3) git init
