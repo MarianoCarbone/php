@@ -1,0 +1,14 @@
+ls== poara ver los archivos y carpetas
+ls -l==otra forma de ver archivos y carpetas
+ls -lh==otra forma de ver archivos y carpetas con mas detalles
+pwd==se en que directorio estoy
+cd..==me envia a un directorio para atras
+claer== limpia la pantalla
+mk dir== crea un directorio/carpeta
+touch NIOMBRE.EXTENCION== crea un archivo con cierta extencios
+git init==estoy creando un repositorio loca
+git add mas el archivo==lo paso a la memoria
+git status== para saber si no estan trakeados o si estan en el stage area
+git commit -m"comentarios.."
+git config user.name"mariano"==creamos el usuario mariano
+git config user.email"marian0906@hotmail.com" creamos el email que es el que tenemos con la cuenta de github
