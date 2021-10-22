@@ -1,0 +1,14 @@
+3  estados hay
+
+
+
+.....git(archivos no trakeados).....
+index.html
+
+
+.....stage Area......(memoria)
+....git addd nombre archivo
+
+
+.....repositorio local.....
+index.html
