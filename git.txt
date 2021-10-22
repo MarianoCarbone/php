@@ -12,3 +12,13 @@ index.html
 
 .....repositorio local.....
 index.html
+
+
+pasos
+1) verificar carpeta de proyecto
+2) entro a la carpeta del proyecto
+3) git init
+4) configurar usuario
+5) configurar email
+6) pasar los archivos al stagging Area=>(todos los aerchivos) git add . (algun archivo git add NombreDelArchivo)
+7) git commit -m"pequeño comentario"
