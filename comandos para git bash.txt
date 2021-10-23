@@ -11,7 +11,11 @@ git add mas el archivo==lo paso a la memoria
 git add .(add+ espacio)==subimos todos a la memoria
 git status== para saber si no estan trakeados o si estan en el stage area
 git commit -m"comentarios.."
-git config user.name"mariano"==creamos el usuario mariano
+git config 
+
+ggieeasdasuser.name"mariano"==creamos el usuario mariano
 git config user.email"marian0906@hotmail.com" creamos el email que es el que tenemos con la cuenta de github
 git log me muestra las modificaciones cronologicamente
 git log --oneline me muestra los cambios nada mas sin informacion
+git remote add origin + https://github.com/MarianoCarbone/php.git== esto me asocia mi repositorio local con el online
+git remote -v verifico si esta asociado con el romete
